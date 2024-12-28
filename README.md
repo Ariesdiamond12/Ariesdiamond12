@@ -12,7 +12,11 @@
 
 ###
 
-<p align="left">* 🌍  I'm based in South Africa<br>* ✉️  You can contact me at preciousmarokane@hotmail.co.za<br>* 🧠  I'm learning AWS Cloud Concepts<br>* 🤝  I'm open to collaborating on Interesting projects<br>* 🦸‍♀️  I'm secretly Captain Marvel....don't tell anyone</p>
+<p>* 🌍  I'm based in South Africa</p>
+<p>* ✉️  You can contact me at preciousmarokane@hotmail.co.za</p>
+<p>* 🧠  I'm learning AWS Cloud Concept</p>
+<p>* 🤝  I'm open to collaborating on Interesting projects</p>
+<p>* 🦸‍♀️  I'm secretly Captain Marvel....don't tell anyone</p>
 
 ###
 
