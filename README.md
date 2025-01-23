@@ -17,6 +17,7 @@
 * 🧠  I'm learning AWS Cloud Concept
 * 🤝  I'm open to collaborating on Interesting projects
 * 🦸‍♀️  I'm secretly Captain Marvel....don't tell anyone
+* 👩‍💻  You can check out my portfolio here https://personal-portfolio-weld-iota-76.vercel.app/
 
 ###
 
