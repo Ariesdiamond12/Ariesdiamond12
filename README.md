@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">👩‍💻 I am a versatile web and mobile developer, experienced in building web applications with a focus on strong skills in ReactJS and React Native, Tailwind CSS, and tools like NextUI. I also have a passion for enhancing user experiences.</p>
+<p align="left">👩‍💻 I am a versatile web and mobile developer, experienced in building web applications with a focus on strong skills in ReactJS and React Native, Tailwind CSS, and tools like HeroUI(NextUI). I also have a passion for enhancing user experiences.</p>
 
 ###
 
